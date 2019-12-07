@@ -1,9 +1,11 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
+## humanstxt.org/
+##he humans responsible & technology colophon
 
+Hi, I am modifiing the file before rebase.
+ 
 # TEAM
 
-    <name> -- Naresh maddela -- <twitter>
+ I   <name> -- Naresh maddela -- <twitter>
 
 # THANKS
 
