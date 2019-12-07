@@ -6,6 +6,10 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
+## git and github training
+
+this is the famous and one of the best training course of devops.
+adding git rebase lectures in git advance part.
 
 ##git comaparision
 
