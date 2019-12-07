@@ -17,6 +17,8 @@ adding git comparisions lectures
 
 ##githubcontent
 
+we have done somuch of work together
+
 comparision with repo
 
 testing the staging and repo
