@@ -2,6 +2,7 @@
 ##he humans responsible & technology colophon
 
 Hi, I am modifiing the file before rebase.
+
  
 # TEAM
 
@@ -11,6 +12,7 @@ Hi, I am modifiing the file before rebase.
 
     thanks to all my students
     testing the rebase
+    IT organization
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
